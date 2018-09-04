@@ -1,0 +1,2 @@
+# affiliate.html
+AffiliateSafelink
